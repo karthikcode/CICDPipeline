@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lgriO1UlXvpz/JTnYxkhEDrDSUVCxafeOWjuG1ITbPuN+hL13gcJNnWWLxuPGLGOrSiaWg0kYlsh0Ss6V2L9yQ==",
+  "success": true,
+  "projectFilePath": "/Users/karthik/Projects/AzureDevops/AzureDevops/AzureDevops.csproj",
+  "expectedPackageFiles": [
+    "/Users/karthik/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/karthik/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512",
+    "/Users/karthik/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
